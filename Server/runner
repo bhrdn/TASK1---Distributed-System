@@ -1,0 +1,2 @@
+xterm -e "cd resources; python3 -m http.server 9090" &
+xterm -e "python server.py" &

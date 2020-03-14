@@ -1,0 +1,2 @@
+sudo cp client.py /usr/bin/client.py
+sudo chmod +x /usr/bin/client.py
